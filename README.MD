@@ -1,12 +1,13 @@
 
 
-# Projeto EBOOK Gerado por I.A.s
+# Na Matrix dos indicadores: O Oráculo guia do COE IA
+
+##Projeto EBOOK Gerado por I.A.
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso da plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital. Este eBook apresenta um guia para a definição e monitoramento de indicadores de desempenho voltados para um Centro de Excelência em Inteligência Artificial (CoE IA) no setor bancário. Com um enfoque prático e estratégico, e inspirado pela lógica intrincada do universo da Matrix, o material oferece insights para mensurar a eficiência, eficácia e impacto das equipes, desde desenvolvedores até líderes de soluções e governan
 
 
 ## 💻 Tecnologias utilizadas no projeto
