@@ -25,7 +25,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Apresente sugestões de títulos criativos para um ebook sobre  indicadores de um Centro de Excelência em Inteligência Artificial com referência ao filme Matrix                                                      |
-| conteúdo | Elabore indicadores de desempenho para um Centro de Excelência de Inteligência Artificial de um banco. Esse centro de Excelência é composto de uma equipe de um multidisciplinar; e lida com engajamento e capacitação, soluções low code, chat de ia generativa da instituição; governançan de IA, cientista de dados e desenvolvedores.|
+| conteúdo | Elabore um ebook que contenha indicadores de desempenho para um Centro de Excelência de Inteligência Artificial de um banco. Esse centro de Excelência é composto de uma equipe de um multidisciplinar; e lida com engajamento e capacitação, soluções low code, chat de ia generativa da instituição; governançan de IA, cientista de dados e desenvolvedores.|
 
 
 Leonard AI：
